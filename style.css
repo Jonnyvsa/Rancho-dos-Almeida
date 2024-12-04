@@ -1,0 +1,38 @@
+
+body{
+ background-image: url(images/bg1\ image.jpg);
+ background-size: cover;   
+ color: rgb(58, 61, 50);
+}
+
+#imageheader{
+    width: 1200px;
+    padding: 20px;
+    height: 500px;
+    
+
+}
+.content{
+    
+    display: flex;
+    flex-direction: column
+    justify-content: ;
+}
+.imagecontent{
+    width: 500px;
+    padding: 20px;
+}
+#all {
+    background-color: rgb(224, 136, 103);
+    margin: 320px;
+    margin-top: 50px;
+    border-radius: 15px;
+
+}
+#welcome h1{
+margin-left: 350px;
+       
+}
+#welcome p{
+margin-left: 220px ;
+}
